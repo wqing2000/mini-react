@@ -21,7 +21,7 @@
 			"type": "chrome",
 			"request": "launch",
 			"name": "Launch Chrome against localhost",
-			"url": "file:///Users/wqing2000/WWW/1.Projects/mini-react/index.html", // 改为自己项目文件的绝对路径
+			"url": "file:///Users/wangqing/WWW/1.Projects/mini-react/demo/v1/index.html", // 改为自己项目文件的绝对路径
 			"webRoot": "${workspaceFolder}",
 			"userDataDir": true,
 			"runtimeArgs": [
